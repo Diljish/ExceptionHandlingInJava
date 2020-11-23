@@ -1,0 +1,12 @@
+package com.exceptionhandling;
+
+import java.util.Scanner;
+
+public class FinallyRunner {
+
+	public static void main(String[] args) {
+
+		Scanner scanner = new Scanner(System.in);
+	}
+
+}

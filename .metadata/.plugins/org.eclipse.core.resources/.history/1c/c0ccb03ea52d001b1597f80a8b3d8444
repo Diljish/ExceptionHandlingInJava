@@ -1,0 +1,17 @@
+package com.exceptionhandling;
+
+import java.util.Scanner;
+
+public class FinallyRunner {
+
+	public static void main(String[] args) {
+
+		Scanner scanner = new Scanner(System.in);
+		
+		int[] numbers = {1,2,3,4};
+		
+		
+		scanner.close();
+	}
+
+}
